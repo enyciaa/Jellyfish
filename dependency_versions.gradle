@@ -1,0 +1,29 @@
+ext {
+    // Library Version
+    appVersionCode = 010000
+    appVersionNumber = '1.0.0'
+
+    // Android
+    minSdkVersionSet = '21'
+    targetSdkVersionSet = '27'
+    compileSdkVersionSet = 27
+    buildToolsVersionSet = '27.0.3'
+
+    // Gradle Plugins
+    gradlePluginVersion = '3.1.0'
+
+    //Kotlin
+    kotlinVersion = '1.2.51'
+
+    //My Libraries
+    kiwiVersion = '1.0.0'
+
+    //Android code libraries
+    daggerVersion = '2.16'
+    rxJavaVersion = '2.1.14'
+
+    //Android testing libraries
+    junitVersion = '4.12'
+    mockKVersion = '1.8.5'
+    assertJVersion = '2.8.0'
+}
